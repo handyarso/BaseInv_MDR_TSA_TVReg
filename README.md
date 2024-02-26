@@ -15,6 +15,7 @@ Integrated geophysical research has emerged as a widely adopted and optimal fram
 - "Hasil_RealCase.m": This file can be used to display graphical results.<br>
 - "load_plot_data.m": Use this file to visualize the field datasets on a map.<br>
 - "visualFormat.p": This file configures the visualization settings.<br>
+
 [5] Additionally, there are other folders such as "gravity" and "regularization", each containing files for computations.<br>
 [6] Once configured, run the main program file "mainProgram.p".<br>
 [7] The output of the program will be logged into the file "log.txt". The result of the basement undulation will be stored in "output.txt".<br>
