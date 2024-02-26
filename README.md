@@ -21,3 +21,5 @@ Integrated geophysical research has emerged as a widely adopted and optimal fram
 [7] The output of the program will be logged into the file "log.txt". The result of the basement undulation will be stored in "output.txt".<br>
 <br>
 Ensure that you have appropriate permissions to modify and execute these files. Adjust the file paths and parameters as needed for your specific dataset and analysis requirements.<br>
+<br>
+Any feedback will be invaluable for me, please send your comments to my correspondence email: acceph@yahoo.com<br>
