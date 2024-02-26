@@ -25,4 +25,4 @@ Ensure that you have appropriate permissions to modify and execute these files. 
 Any feedback will be invaluable for me, please send your comments to my correspondence email: acceph@yahoo.com<br>
 
 ## How to cite:<br>
-Handyarso, A. and Grandis, H. 2017. Three-Dimensional Gravity Inverse Modeling for Basement Depth Estimation Integrating Maximum Difference Reduction (MDR), Trend Surface Analysis (TSA), and Total Variation Regularization (TVReg). Journal Engineering and Technological Sciencem 49(3), pp. 358-372. Doi: 10.5614/j.eng.technol.sci.2017.49.3.5 <br>
+Handyarso, A. and Grandis, H. 2017. Three-Dimensional Gravity Inverse Modeling for Basement Depth Estimation Integrating Maximum Difference Reduction (MDR), Trend Surface Analysis (TSA), and Total Variation Regularization (TVReg). Journal Engineering and Technological Sciencem 49(3), pp. 358-372. Doi: [10.5614/j.eng.technol.sci.2017.49.3.5](https://journals.itb.ac.id/index.php/jets/article/view/3535) <br>
