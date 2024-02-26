@@ -8,15 +8,15 @@ Integrated geophysical research has emerged as a widely adopted and optimal fram
 
 
 # To use the program, follow these steps:
-[1] Open the file "load_path.m" and specify the path of the program directory on your PC.\n
-[2] Place your field datasets in the "datasets" folder. These datasets will be used for calculations.\n
-[3] Navigate to the "parameters" folder and open the file "load_parameters.m". Modify this file according to your specific parameters and requirements.\n
-[4] Inside the "utils" folder, you'll find several files:\n
-	"Hasil_RealCase.m": This file can be used to display graphical results.\n
-	"load_plot_data.m": Use this file to visualize the field datasets on a map.\n
-	"visualFormat.p": This file configures the visualization settings.\n
-[5] Additionally, there are other folders such as "gravity" and "regularization", each containing files for computations.\n
-[6] Once configured, run the main program file "mainProgram.p".\n
-[7] The output of the program will be logged into the file "log.txt". The result of the basement undulation will be stored in "output.txt".\n
-
-Ensure that you have appropriate permissions to modify and execute these files. Adjust the file paths and parameters as needed for your specific dataset and analysis requirements.
+[1] Open the file "load_path.m" and specify the path of the program directory on your PC.<br>
+[2] Place your field datasets in the "datasets" folder. These datasets will be used for calculations.<br>
+[3] Navigate to the "parameters" folder and open the file "load_parameters.m". Modify this file according to your specific parameters and requirements.<br>
+[4] Inside the "utils" folder, you'll find several files:<br>
+	"Hasil_RealCase.m": This file can be used to display graphical results.<br>
+	"load_plot_data.m": Use this file to visualize the field datasets on a map.<br>
+	"visualFormat.p": This file configures the visualization settings.<br>
+[5] Additionally, there are other folders such as "gravity" and "regularization", each containing files for computations.<br>
+[6] Once configured, run the main program file "mainProgram.p".<br>
+[7] The output of the program will be logged into the file "log.txt". The result of the basement undulation will be stored in "output.txt".<br>
+<br>
+Ensure that you have appropriate permissions to modify and execute these files. Adjust the file paths and parameters as needed for your specific dataset and analysis requirements.<br>
