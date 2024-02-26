@@ -1,1 +1,1 @@
-myPath = 'C:\Users\Handyarso\Documents\MATLAB\myGithub_TEKNOLOGI\pcode';
+myPath = 'D:\BaseInv_MDR_TSA_TVReg-main';
