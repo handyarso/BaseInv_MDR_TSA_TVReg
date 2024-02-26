@@ -10,7 +10,7 @@ Integrated geophysical research has emerged as a widely adopted and optimal fram
 # To use the program, follow these steps:
 [1] Open the file "load_path.m" and specify the path of the program directory on your PC.<br>
 [2] Place your field datasets in the "datasets" folder. These datasets will be used for calculations.<br>
-[3] Navigate to the "parameters" folder and open the file "load_parameters.m". Modify this file according to your specific parameters and requirements.<br>
+[3] Navigate to the "parameters" folder and open the file "load_parameters.m". Modify this file according to your specific parameters and requirements. In this file, you may choose whether to use built in TSA or your specific second order regional coefficient.<br>
 [4] Inside the "utils" folder, you'll find several files:<br>
 - "Hasil_RealCase.m": This file can be used to display graphical results.<br>
 - "load_plot_data.m": Use this file to visualize the field datasets on a map.<br>
