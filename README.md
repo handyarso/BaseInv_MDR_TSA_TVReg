@@ -25,7 +25,7 @@ Integrated geophysical research has emerged as a widely adopted and optimal fram
 - ### Assumed we have an seismic interface and density constrast assigned into the layer, such that the gravity anomaly response can be calculated.<br>
 <br>
 <br>
-<br>
+
 ![A Profile of the Inversion Result](https://github.com/handyarso/BaseInv_MDR_TSA_TVReg/blob/main/figures/figures_01.png)<br>
 - ### Upperside: The solid red line represents the Bouguer gravity anomaly, while the dash-dot blue line depicts the calculated gravity anomaly.
 - ### Bottomside: The dash-dot blue line illustrates the topography of the section/profile datasets. The dash-dot red line denotes the first interface derived from seismic data interpretation. Lastly, the solid black line represents the estimated basement undulation.<br>
