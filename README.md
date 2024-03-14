@@ -35,9 +35,9 @@ Ensure that you have appropriate permissions to modify and execute these files. 
 
 ## Disclaimers:<br>
 - The code is developed and running well under the Matlab 2014 environment.<br>
-- The data dimension for inversion is locked and the number of layer is limited as the given size. However, any custom modification to fulfiled any user needs are welcome.<br>
-- Any collaborative works are welcome, just feel free to contact to me.<br>
-- We recognize that there are many weaknesses that need to be fixed, further field works implementation are the best way to improve the code.<br>
+- The data dimension for the inversion and the number of layer is limited as the given size. However, any custom modification to fulfiled any user needs are welcome.<br>
+- Any collaborative works are welcome, just feel free to discuss.<br>
+- We recognize that there are many weaknesses that need to be fixed, field works implementation are the best way for further improvement.<br>
 - Any feedback will be invaluable for me, please send your comments to my correspondence email: acceph@yahoo.com<br>
 
 ## How to cite:<br>
