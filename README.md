@@ -32,7 +32,12 @@ Integrated geophysical research has emerged as a widely adopted and optimal fram
 <br>
 Ensure that you have appropriate permissions to modify and execute these files. Adjust the file paths and parameters as needed for your specific dataset and analysis requirements.<br>
 <br>
-Any feedback will be invaluable for me, please send your comments to my correspondence email: acceph@yahoo.com<br>
+## Disclaimers:
+- The code is developed and running well under the Matlab 2014 environment.<br>
+- The data dimension for inversion is locked and the number of layer is limited as the given size. However, any custom modification to fulfiled any user needs are welcome.<br>
+- Any collaborative works are welcome, just feel free to contact to me.<br>
+- We recognize that there are many weaknesses that need to be fixed, further field works implementation are the best way to improve the code.<br>
+- Any feedback will be invaluable for me, please send your comments to my correspondence email: acceph@yahoo.com<br>
 
 ## How to cite:<br>
 Handyarso, A. and Grandis, H. 2017. Three-Dimensional Gravity Inverse Modeling for Basement Depth Estimation Integrating Maximum Difference Reduction (MDR), Trend Surface Analysis (TSA), and Total Variation Regularization (TVReg). Journal Engineering and Technological Sciencem 49(3), pp. 358-372. Doi: [10.5614/j.eng.technol.sci.2017.49.3.5](https://journals.itb.ac.id/index.php/jets/article/view/3535) <br>
