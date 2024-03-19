@@ -38,7 +38,7 @@ Ensure that you have appropriate permissions to modify and execute these files. 
 - The provided field datasets are simulated data, with coordinates that have been shifted due to data confidentiality considerations. Therefore, the data does not correspond to any specific region.<br>
 - The data dimension for the inversion and the number of layer is limited as the given size. However, any custom modification to fulfiled any user needs are welcome.<br>
 - Any collaborative works are welcome, just feel free to discuss.<br>
-- We recognize that there are many weaknesses that need to be fixed, field works implementation are the best way for further improvement.<br>
+- We recognize that there are weaknesses that need to be improved, field works implementation are the best way for further this goal.<br>
 - Any feedback will be invaluable for me, please send your comments to my correspondence email: acceph@yahoo.com<br>
 
 ## How to cite:<br>
