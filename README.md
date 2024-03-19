@@ -35,6 +35,7 @@ Ensure that you have appropriate permissions to modify and execute these files. 
 
 ## Disclaimers:<br>
 - The code is developed and running well under the Matlab 2014 environment.<br>
+- The provided field datasets are simulated data, with coordinates that have been shifted due to data confidentiality considerations. Therefore, the data does not correspond to any specific region.<br>
 - The data dimension for the inversion and the number of layer is limited as the given size. However, any custom modification to fulfiled any user needs are welcome.<br>
 - Any collaborative works are welcome, just feel free to discuss.<br>
 - We recognize that there are many weaknesses that need to be fixed, field works implementation are the best way for further improvement.<br>
